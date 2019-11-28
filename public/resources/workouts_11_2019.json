@@ -1,0 +1,319 @@
+[
+    {
+        "Date": "11-23-2019",
+        "Cardio" : [
+            {
+                "Exercise": "Run",
+                "Distance": "1 mile"
+            }
+        ],
+        "Workout": [
+            {
+                "Exercise": "Sumo squats",
+                "Sets": 3,
+                "Reps": 15,
+                "Notes": "Warm up"
+            },
+            {
+                "Exercise": "Reverse lunges",
+                "Sets": 3,
+                "Reps": 15
+            },
+            {
+                "Exercise": "Bulgarian split squats",
+                "Sets": 3,
+                "Reps": 15
+            },
+            {
+                "Exercise": "Kettlebell swings",
+                "Sets": 3,
+                "Reps": 20
+            },
+            {
+                "Exercise": "Step ups",
+                "Sets": 3,
+                "Reps": 10
+            },
+            {
+                "Exercise": "Calf raises",
+                "Sets": 3,
+                "Reps": 30
+            }
+        ],
+        "Core": [
+            {
+                "Exercise": "Leg lifts",
+                "Sets": 2,
+                "Reps": 25
+            },
+            {
+                "Exercise": "Russian twists",
+                "Sets": 2,
+                "Reps": 40
+            },
+            {
+                "Exercise": "Planks",
+                "Sets": 3,
+                "Duration": "1 minute"
+            }
+        ]
+    },
+    {
+        "Date": "11-24-2019",
+        "Cardio" : [
+            {
+                "Exercise": "Run",
+                "Distance": "1 mile"
+            }
+        ],
+        "Workout": [
+            {
+                "Exercise": "Incline dumbbell bench",
+                "Sets": 3,
+                "Reps": 15
+            },
+            {
+                "Exercise": "Tricep kick backs",
+                "Sets": 3,
+                "Reps": 12
+            },
+            {
+                "Exercise": "Cable push downs",
+                "Sets": 4,
+                "Reps": 12
+            },
+            {
+                "Exercise": "Arnold presses",
+                "Sets": 4,
+                "Reps": 15
+            },
+            {
+                "Exercise": "Lateral raises",
+                "Sets": 3,
+                "Reps": 10
+            },
+            {
+                "Exercise": "Rope pulls",
+                "Sets": 2,
+                "Duration": "1 minute"
+            }
+        ],
+        "Core": [
+            {
+                "Exercise": "Big Scissors",
+                "Sets": 2,
+                "Reps": 30
+            },
+            {
+                "Exercise": "Bicycles",
+                "Sets": 2,
+                "Reps": 50
+            },
+            {
+                "Exercise": "Planks",
+                "Sets": 3,
+                "Duration": "1 minute"
+            }
+        ]
+    },
+    {
+        "Date": "11-25-2019",
+        "Cardio" : [
+            {
+                "Exercise": "Run",
+                "Distance": "2 miles"
+            }
+        ],
+        "Workout": [
+            {
+                "Exercise": "Cossack squats",
+                "Sets": 3,
+                "Reps": 15,
+                "Notes": "Warm up"
+            },
+            {
+                "Exercise": "Deadlifts",
+                "Sets": 5,
+                "Reps": 5
+            },
+            {
+                "Exercise": "Lateral leg raises",
+                "Sets": 4,
+                "Reps": 15
+            },
+            {
+                "Exercise": "Leg curls",
+                "Sets": 4,
+                "Reps": 12
+            }
+        ],
+        "Core": [
+            {
+                "Exercise": "Planks",
+                "Sets": 4,
+                "Duration": "1 minute"
+            }
+        ]
+    },
+    {
+        "Date": "11-26-2019",
+        "Cardio" : [
+            {
+                "Exercise": "Run",
+                "Distance": "1 mile"
+            }
+        ],
+        "Workout": [
+            {
+                "Exercise": "Incline dumbbell bench",
+                "Sets": 3,
+                "Reps": 15
+            },
+            {
+                "Exercise": "Tricep kick backs",
+                "Sets": 3,
+                "Reps": 12
+            },
+            {
+                "Exercise": "Cable push downs",
+                "Sets": 4,
+                "Reps": 12
+            },
+            {
+                "Exercise": "Arnold presses",
+                "Sets": 4,
+                "Reps": 15
+            },
+            {
+                "Exercise": "Lateral raises",
+                "Sets": 3,
+                "Reps": 10
+            },
+            {
+                "Exercise": "Rope pulls",
+                "Sets": 2,
+                "Duration": "1 minute"
+            }
+        ],
+        "Core": [
+            {
+                "Exercise": "Big Scissors",
+                "Sets": 2,
+                "Reps": 30
+            },
+            {
+                "Exercise": "Bicycles",
+                "Sets": 2,
+                "Reps": 50
+            },
+            {
+                "Exercise": "Planks",
+                "Sets": 3,
+                "Duration": "1 minute"
+            }
+        ]
+    },
+    {
+        "Date": "11-27-2019",
+        "Cardio" : [
+            {
+                "Exercise": "Run",
+                "Distance": "1 miles"
+            }
+        ],
+        "Workout": [
+            {
+                "Exercise": "Pull ups",
+                "Sets": 4,
+                "Reps": 10
+            },
+            {
+                "Exercise": "Lat pull downs",
+                "Sets": 4,
+                "Reps": 12
+            },
+            {
+                "Exercise": "Cable rows",
+                "Sets": 3,
+                "Reps": 12
+            },
+            {
+                "Exercise": "Hammer curls",
+                "Sets": 3,
+                "Reps": 12
+            },
+            {
+                "Exercise": "Dumbbell rows",
+                "Sets": 3,
+                "Reps": 12
+            }
+        ],
+        "Core": [
+            {
+                "Exercise": "Planks",
+                "Sets": 4,
+                "Duration": "1 minute"
+            }
+        ]
+    },
+    {
+        "Date": "11-28-2019",
+        "Cardio" : [
+            {
+                "Exercise": "Run",
+                "Distance": "1 mile"
+            }
+        ],
+        "Workout": [],
+        "Core": [
+            {
+                "Exercise": "Single leg V-ups",
+                "Sets": 2,
+                "Reps": 30
+            },
+            {
+                "Exercise": "Crunches",
+                "Sets": 2,
+                "Reps": 40
+            },
+            {
+                "Exercise": "Planks",
+                "Sets": 3,
+                "Duration": "1 minute"
+            }
+        ]
+    },
+    {
+        "Date": "11-29-2019",
+        "Cardio" : [
+            {
+                "Exercise": "Run",
+                "Distance": "1 mile"
+            }
+        ],
+        "Workout": [
+            {
+                "Exercise": "Push ups",
+                "Sets": 4,
+                "Reps": 10
+            },
+            {
+                "Exercise": "Lateral raises",
+                "Sets": 4,
+                "Reps": 10
+            },
+            {
+                "Exercise": "Bent over lateral raises",
+                "Sets": 4,
+                "Reps": 10
+            }
+        ],
+        "Core": [
+            {
+                "Exercise": "Iron maidens",
+                "Sets": 3,
+                "Duration": "1 minute"
+            }
+        ]
+    }
+]

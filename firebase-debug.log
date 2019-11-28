@@ -1,0 +1,22 @@
+[debug] [2019-11-28T07:31:03.654Z] ----------------------------------------------------------------------
+[debug] [2019-11-28T07:31:03.656Z] Command:       /Users/kevinnguyen/.nvm/versions/node/v12.4.0/bin/node /Users/kevinnguyen/.nvm/versions/node/v12.4.0/bin/firebase serve --only hosting
+[debug] [2019-11-28T07:31:03.656Z] CLI Version:   7.8.1
+[debug] [2019-11-28T07:31:03.656Z] Platform:      darwin
+[debug] [2019-11-28T07:31:03.656Z] Node Version:  v12.4.0
+[debug] [2019-11-28T07:31:03.663Z] Time:          Wed Nov 27 2019 23:31:03 GMT-0800 (Pacific Standard Time)
+[debug] [2019-11-28T07:31:03.663Z] ----------------------------------------------------------------------
+[debug] [2019-11-28T07:31:03.663Z] 
+[debug] [2019-11-28T07:31:03.677Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-11-28T07:31:03.677Z] > authorizing via signed-in user
+[debug] [2019-11-28T07:31:03.678Z] [iam] checking project stine-workouts for permissions ["firebase.projects.get"]
+[debug] [2019-11-28T07:31:03.679Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/stine-workouts:testIamPermissions  
+
+[debug] [2019-11-28T07:31:03.875Z] <<< HTTP RESPONSE 200
+[debug] [2019-11-28T07:31:03.877Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/stine-workouts  
+ 
+[debug] [2019-11-28T07:31:04.099Z] <<< HTTP RESPONSE 200
+[debug] [2019-11-28T07:31:04.100Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/stine-workouts/webApps/-/config  
+ 
+[debug] [2019-11-28T07:31:04.505Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
